@@ -1,0 +1,6 @@
+FLUTTER
+========
+Instalar Flutter:
+https://flutter.dev/docs/get-started/install
+Qué IDE usar? Android Studio o VS Code?
+https://www.youtube.com/watch?v=VF4dxFY3pRg
